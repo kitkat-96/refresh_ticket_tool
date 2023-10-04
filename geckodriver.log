@@ -1409,3 +1409,661 @@ JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury
 1695073353014	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
 1695073359578	Marionette	INFO	Stopped listening on port 50992
+1696442314683	geckodriver	INFO	Listening on 127.0.0.1:60148
+1696442315088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileCVspNl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696442315464	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696442315612	Marionette	INFO	Listening on port 60156
+WebDriver BiDi listening on ws://127.0.0.1:60149
+Read port: 60156
+1696442315778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60149/devtools/browser/42add960-ffd2-46e8-ab66-438757e9979d
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696442322799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696442322802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696442337379	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696442337380	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696443130693	geckodriver	INFO	Listening on 127.0.0.1:60344
+1696443131200	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileYvmfKi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696443131563	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696443131713	Marionette	INFO	Listening on port 60350
+WebDriver BiDi listening on ws://127.0.0.1:60345
+Read port: 60350
+1696443131768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60345/devtools/browser/0c0515fd-12aa-4567-b95f-5dd01eb9201b
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696443132768	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696443132770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 230: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696443254191	geckodriver	INFO	Listening on 127.0.0.1:60729
+1696443254708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileV39JL2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696443255079	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696443255231	Marionette	INFO	Listening on port 60735
+WebDriver BiDi listening on ws://127.0.0.1:60730
+Read port: 60735
+1696443255367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60730/devtools/browser/65fe82e7-a16a-4755-ba95-fc9773914534
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696443256241	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696443256248	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696443286195	geckodriver	INFO	Listening on 127.0.0.1:60770
+1696443286703	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilePcWvsl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696443286997	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696443287089	Marionette	INFO	Listening on port 60776
+Read port: 60776
+WebDriver BiDi listening on ws://127.0.0.1:60771
+1696443287148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60771/devtools/browser/2e4e7dc8-c2e0-41a1-8fc7-d9c6da62d609
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696443288104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696443288106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4684 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696443913770	Marionette	INFO	Stopped listening on port 60776
+1696443915452	Marionette	INFO	Stopped listening on port 60735
+JavaScript warning: https://ib.3lift.com/rev/f203c6df764ae3b8c5587fd75a06d8184d33ecb8/dist/bundle.js, line 1: Script terminated by timeout at:
+498/decorate/<@https://ib.3lift.com/rev/f203c6df764ae3b8c5587fd75a06d8184d33ecb8/dist/bundle.js:1:18820
+
+1696443916772	Marionette	INFO	Stopped listening on port 60350
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1696443918792	Marionette	INFO	Stopped listening on port 60156
+1696444428349	geckodriver	INFO	Listening on 127.0.0.1:62795
+1696444428868	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileajO1Fo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696444429225	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696444429358	Marionette	INFO	Listening on port 62802
+WebDriver BiDi listening on ws://127.0.0.1:62796
+Read port: 62802
+1696444429490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62796/devtools/browser/76368594-50ef-4157-97ff-6d8984d48bc3
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696444444296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696444444299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696444446557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696444446557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696444595819	geckodriver	INFO	Listening on 127.0.0.1:62858
+1696444596332	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofiledwJN9T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696444596645	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696444596741	Marionette	INFO	Listening on port 62865
+Read port: 62865
+WebDriver BiDi listening on ws://127.0.0.1:62859
+1696444596789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62859/devtools/browser/5ce48b35-7a45-43fd-bd87-7c1abe146c07
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696444597596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696444597598	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: , line 0: uncaught exception: No tcf-api
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/17MduF4b-1jBNLlm7tOdf7Y0xxmC-v9YXeZb_9D--DE.js line 2 > eval line 489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/17MduF4b-1jBNLlm7tOdf7Y0xxmC-v9YXeZb_9D--DE.js line 2 > eval line 4602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/17MduF4b-1jBNLlm7tOdf7Y0xxmC-v9YXeZb_9D--DE.js line 2 > eval line 3811 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 3601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/17MduF4b-1jBNLlm7tOdf7Y0xxmC-v9YXeZb_9D--DE.js line 2 > eval line 3449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pix.adrta.com/cdnf.js?v=22.120, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 1775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 1765 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 7203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 6884 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/f2cqprNxaY2GOW1kJFnefQh67KLbyJA2ScFiBiL3W8Q.js line 2 > eval line 4986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 73: Script terminated by timeout at:
+m.unsubscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:126
+Xc.prototype.C@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:87:1209
+m.complete@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:73:98
+vc/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:80:1199
+Zc@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:89:127
+ld.prototype.o@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:92:386
+m.next@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:72:859
+vc/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:80:1186
+m.vd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:77:34
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:946
+kd.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:91:2240
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+yk/c/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:195:268
+m.vd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:77:34
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:946
+of.Eg@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:113:1035
+m.Ke@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:96:339
+Sd.prototype.execute@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:103:1943
+td.prototype.flush@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:97:438
+Sd.prototype.B@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:103:1818
+Cc.prototype.B@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:82:300
+of.prototype.ca@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:113:1103
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:935
+qf.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:114:77
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+Hc.prototype.connect@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:83:573
+Fc.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:82:744
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+yk/c/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:195:268
+m.vd@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:77:34
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:946
+Mc.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:85:311
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+kd.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:91:2240
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+Ae.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:106:547
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+Mc.prototype.call@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:85:311
+m.subscribe@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:76:877
+Jp.prototype.start@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:278:228
+Rp@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:288:463
+@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:295:653
+fk/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:186:1013
+Oa.prototype.Na/<@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:43:162
+@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:295:662
+@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:295:666
+@https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914:295:689
+
+JavaScript warning: https://secure.cdn.fastclick.net/js/cnvr-coreid/latest/coreid.min.js, line 2: Script terminated by timeout at:
+3111/l/<@https://secure.cdn.fastclick.net/js/cnvr-coreid/latest/coreid.min.js:2:112497
+3009/e.exports<@https://secure.cdn.fastclick.net/js/cnvr-coreid/latest/coreid.min.js:2:101327
+Wr@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:177:462
+$r@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:177:279
+as@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:176:1255
+ds@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:177:1141
+_.fs@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:177:1267
+ty@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:275:272
+LA@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:333:308
+KA.prototype.u@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:332:336
+QA/<@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:336:304
+OA/a.h@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_GB.jfsvJHsxvOQ.es5.O/am=ggE/d=1/rs=AJlcJMxoat5BfxwXJsb9Czh0HCUcD0Kh4g/m=kernel_loader,loader_js_executable:335:384
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.594.0_en.html#goog_1947990097, line 53: Script terminated by timeout at:
+Ta@https://imasdk.googleapis.com/js/core/bridge3.594.0_en.html#goog_1947990097:53:289
+$y.prototype.sendBeacon@https://imasdk.googleapis.com/js/core/bridge3.594.0_en.html#goog_1947990097:409:271
+Xy@https://imasdk.googleapis.com/js/core/bridge3.594.0_en.html#goog_1947990097:408:144
+$y/this.fa@https://imasdk.googleapis.com/js/core/bridge3.594.0_en.html#goog_1947990097:404:403
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://code.createjs.com/1.0.0/createjs.min.js, line 12: Script terminated by timeout at:
+a._getTime@https://code.createjs.com/1.0.0/createjs.min.js:12:7765
+a._tick@https://code.createjs.com/1.0.0/createjs.min.js:12:7224
+a._handleTimeout@https://code.createjs.com/1.0.0/createjs.min.js:12:6772
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1696444726258	geckodriver	INFO	Listening on 127.0.0.1:63232
+1696444726774	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileR2gEse"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696444727089	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696444727191	Marionette	INFO	Listening on port 63238
+WebDriver BiDi listening on ws://127.0.0.1:63233
+Read port: 63238
+1696444727329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63233/devtools/browser/782ad335-506e-4454-9a20-b4ee57afebc8
+1696444781597	Marionette	INFO	Stopped listening on port 62802
+1696444783532	Marionette	INFO	Stopped listening on port 62865
+1696444785256	Marionette	INFO	Stopped listening on port 63238
+1696444787769	geckodriver	INFO	Listening on 127.0.0.1:63285
+1696444788281	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilesCLIeK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696444788569	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696444788758	Marionette	INFO	Listening on port 63293
+WebDriver BiDi listening on ws://127.0.0.1:63286
+Read port: 63293
+1696444788861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63286/devtools/browser/de47d79d-f4f5-4f96-a34b-99687c9fc8a3
+1696444897495	geckodriver	INFO	Listening on 127.0.0.1:63333
+1696444898013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilelJb4CT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696444898305	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696444898407	Marionette	INFO	Listening on port 63340
+Read port: 63340
+WebDriver BiDi listening on ws://127.0.0.1:63334
+1696444898509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63334/devtools/browser/dcd70afc-e783-46f5-800b-00b8820eb360
+1696444911498	Marionette	INFO	Stopped listening on port 63340
+1696444912710	Marionette	INFO	Stopped listening on port 63293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1696445022393	geckodriver	INFO	Listening on 127.0.0.1:63380
+1696445022908	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilea3wtY4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445023238	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445023438	Marionette	INFO	Listening on port 63387
+WebDriver BiDi listening on ws://127.0.0.1:63381
+Read port: 63387
+1696445023563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63381/devtools/browser/e9eca61a-7517-48bf-9000-40dca71848c6
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445028809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445028811	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445054496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445054497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445085505	geckodriver	INFO	Listening on 127.0.0.1:63436
+1696445086022	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilesjZgBT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445086317	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445086507	Marionette	INFO	Listening on port 63442
+WebDriver BiDi listening on ws://127.0.0.1:63437
+Read port: 63442
+1696445086608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63437/devtools/browser/579d3f94-1c1f-4470-82f5-11242d1e0adf
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445093810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445093812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445097727	Marionette	INFO	Stopped listening on port 63442
+1696445098236	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1696445103941	Marionette	INFO	Stopped listening on port 63387
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1696445124939	geckodriver	INFO	Listening on 127.0.0.1:63484
+1696445124942	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilebl4obb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445125209	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445125396	Marionette	INFO	Listening on port 63489
+WebDriver BiDi listening on ws://127.0.0.1:63485
+Read port: 63489
+1696445125499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63485/devtools/browser/8fb37a66-04bb-40ce-988b-d10e7f8f63aa
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445128572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445128574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445129782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445129783	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445130834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445130835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445161653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445161656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445162717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445162717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445166393	Marionette	INFO	Stopped listening on port 63489
+1696445229863	geckodriver	INFO	Listening on 127.0.0.1:63534
+1696445230383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileunWI6f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445230694	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445230796	Marionette	INFO	Listening on port 63540
+Read port: 63540
+WebDriver BiDi listening on ws://127.0.0.1:63535
+1696445230894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63535/devtools/browser/0d4c6e61-a233-420e-8e1f-d9daa416a8b7
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445236196	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445236204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript warning: https://c.ststat.net/Content/Sites/BusyPage/CountDown.js, line 4: Script terminated by timeout at:
+CountDown@https://c.ststat.net/Content/Sites/BusyPage/CountDown.js:4:84
+@https://c.ststat.net/Content/Sites/BusyPage/CountDown.js:1:1
+
+1696445246987	Marionette	INFO	Stopped listening on port 63540
+1696445266249	geckodriver	INFO	Listening on 127.0.0.1:63578
+1696445266769	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofile8Oe0Gb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445267062	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445267250	Marionette	INFO	Listening on port 63585
+WebDriver BiDi listening on ws://127.0.0.1:63579
+Read port: 63585
+1696445267350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63579/devtools/browser/546ddfd2-ca6c-4b39-aed5-9ff8ee060aa4
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445270408	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445270410	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445275851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445275851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445279029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445279029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445286476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445286476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445287932	Marionette	INFO	Stopped listening on port 63585
+1696445288577	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1696445299293	geckodriver	INFO	Listening on 127.0.0.1:63627
+1696445299297	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilePU94T3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445299552	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445299649	Marionette	INFO	Listening on port 63631
+WebDriver BiDi listening on ws://127.0.0.1:63628
+Read port: 63631
+1696445299804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63628/devtools/browser/dafdc798-23a4-4c8b-b6da-a2d0c99ffea4
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445301838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445301840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445316872	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445316874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445322156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445322157	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445364981	geckodriver	INFO	Listening on 127.0.0.1:63686
+1696445365500	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofiledeOqYE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445365860	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445366061	Marionette	INFO	Listening on port 63693
+WebDriver BiDi listening on ws://127.0.0.1:63687
+Read port: 63693
+1696445366193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63687/devtools/browser/e030db7d-4888-428e-89f3-e16a7aae37ee
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445369630	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445369633	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445376145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445376146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445381471	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445381473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445390975	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445390976	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445397254	Marionette	INFO	Stopped listening on port 63693
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696445408650	geckodriver	INFO	Listening on 127.0.0.1:63734
+1696445408654	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofile6DP7Hi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445408919	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445409113	Marionette	INFO	Listening on port 63738
+WebDriver BiDi listening on ws://127.0.0.1:63735
+Read port: 63738
+1696445409218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63735/devtools/browser/de0a44df-357f-4eb0-a2ec-ba82b47aacdd
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445414258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445414259	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445423361	Marionette	INFO	Stopped listening on port 63738
+1696445473837	geckodriver	INFO	Listening on 127.0.0.1:63784
+1696445474354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofile2xloLn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445474719	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445474830	Marionette	INFO	Listening on port 63791
+WebDriver BiDi listening on ws://127.0.0.1:63785
+Read port: 63791
+1696445474974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63785/devtools/browser/a9422dea-3501-46bc-b39d-b49bb82f0bf3
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445483501	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445483505	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445485775	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445485775	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445488543	Marionette	INFO	Stopped listening on port 63791
+1696445488901	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1696445514392	geckodriver	INFO	Listening on 127.0.0.1:63829
+1696445514908	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileKxeWRT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445515249	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445515359	Marionette	INFO	Listening on port 63836
+WebDriver BiDi listening on ws://127.0.0.1:63830
+Read port: 63836
+1696445515493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63830/devtools/browser/b949ee30-e363-42c7-b9c0-b558f0bc295f
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445517429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445517432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445543625	geckodriver	INFO	Listening on 127.0.0.1:63875
+1696445544132	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileupKOEd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445544411	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445544599	Marionette	INFO	Listening on port 63881
+WebDriver BiDi listening on ws://127.0.0.1:63876
+Read port: 63881
+1696445544700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63876/devtools/browser/2b139957-655a-44e5-860a-31d9bdf7cb06
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445550926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445550928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445556540	geckodriver	INFO	Listening on 127.0.0.1:63923
+1696445557060	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileAEgIwO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696445557353	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696445557543	Marionette	INFO	Listening on port 63929
+WebDriver BiDi listening on ws://127.0.0.1:63924
+Read port: 63929
+1696445557648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:63924/devtools/browser/ab691794-87ed-4f95-8209-d3774c9cc5fe
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1696445563813	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1696445563815	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1696445779534	Marionette	INFO	Stopped listening on port 63836
+1696445780939	Marionette	INFO	Stopped listening on port 63881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1696445782787	Marionette	INFO	Stopped listening on port 63929
