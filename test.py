@@ -20,7 +20,7 @@ driver = webdriver.Firefox()
 
 #  throws up test site
 def gen_page ():
-    page_choice = random.choices(site_options, weights=[0.9, 0.1])[0]
+    page_choice = random.choices(site_options, weights=[0.92, 0.08])[0]
     return str(page_choice)
 
 def refresh_page ():
@@ -31,6 +31,8 @@ def refresh_page ():
 while is_queue_page == True: # this will change to the while false or something 
     refresh_page()
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
+    # if postcode appears on queue page this will not work. 
+    # If postcode does not appear on main page this will not work
     if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
         print("banging")
         is_queue_page = False
