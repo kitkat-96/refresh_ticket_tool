@@ -2,18 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
 import time
-import random
+from timeit import default_timer as timer
 from bs4 import BeautifulSoup 
 
 # real url - might need replacing
-# url = 'https://glastonbury.seetickets.com/content/extras'
-
-# testing urls
-glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm'
-queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_queue.htm'
-site_options = [queue_url, glasto_url]
+glasto_url = 'https://glastonbury.seetickets.com/content/extras'
 is_queue_page = True
 
 
@@ -22,33 +16,21 @@ headers = {}
 
 driver = webdriver.Firefox()
 
-#  throws up test site
-def gen_page ():
-    page_choice = random.choices(site_options, weights=[0.92, 0.08])[0]
-    return str(page_choice)
-
-def refresh_page ():
-    num = random.uniform(0,2)
-    time.sleep(num)
-    driver.get(gen_page())
-        # will need to add back in the refresh
-        # driver.refresh()
-    return num
-
+driver.get(glasto_url)
 while is_queue_page == True: # this will change to the while false or something 
     # timeout not working
-    num = refresh_page()
-    loaded = WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
-    print(num)
+    driver.refresh()
+    start = timer()
+    WebDriverWait(driver, 0.004).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
+    end = timer()
+    print(f"loaded in {(end-start)}")
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if postcode appears on queue page this will not work. 
     # If postcode does not appear on main page this will not work
     if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
         is_queue_page = False
+    time.sleep(1)
 
-
-    # except NoSuchElementException as exc:
-    # #     print(exc)
 
 
 # look at how to link beautiful soup and selenium
