@@ -3,11 +3,16 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time
-from timeit import default_timer as timer
+import random
 from bs4 import BeautifulSoup 
 
 # real url - might need replacing
-glasto_url = 'https://glastonbury.seetickets.com/content/extras'
+# url = 'https://glastonbury.seetickets.com/content/extras'
+
+# testing urls
+glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm'
+queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_queue.htm'
+site_options = [queue_url, glasto_url]
 is_queue_page = True
 
 
@@ -16,28 +21,20 @@ headers = {}
 
 driver = webdriver.Firefox()
 
-driver.get(glasto_url)
+#  throws up test site
+def gen_page ():
+    page_choice = random.choices(site_options, weights=[0.98, 0.02])[0]
+    return str(page_choice)
+
+def refresh_page ():
+        driver.get(gen_page())
+        time.sleep(1)
+
 while is_queue_page == True: # this will change to the while false or something 
-    # timeout not working
-    driver.refresh()
-    start = timer()
-    WebDriverWait(driver, 0.004).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
-    end = timer()
-    print(f"loaded in {(end-start)}")
+    refresh_page()
+    WebDriverWait(driver, 1).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if postcode appears on queue page this will not work. 
     # If postcode does not appear on main page this will not work
     if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
         is_queue_page = False
-    time.sleep(1)
-
-
-
-# look at how to link beautiful soup and selenium
-# soup = BeautifulSoup(driver, 'html.parser')
-# print(soup)
-# # https://www.codecademy.com/article/caupolicandiaz/web-scrape-with-selenium-and-beautiful-soup
-
-# driver.get(random_generator)
-
-# Refreshes the web page
