@@ -14689,3 +14689,24 @@ UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadabl
 DevTools listening on ws://127.0.0.1:64921/devtools/browser/15581345-615e-4cd4-837e-911a4ecef1f8
 1698788241536	Marionette	INFO	Stopped listening on port 64926
 1698788241831	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1698788968167	geckodriver	INFO	Listening on 127.0.0.1:65074
+1698788968679	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofile6edRmO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698788969086	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698788969236	Marionette	INFO	Listening on port 65080
+WebDriver BiDi listening on ws://127.0.0.1:65075
+Read port: 65080
+1698788969386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65075/devtools/browser/248013c2-0f4e-42ec-b10c-93f755858725
+JavaScript error: https://glastonbury.seetickets.com/content/extras, line 324: TypeError: $.cookie(...) is undefined
+1698788989514	Marionette	INFO	Stopped listening on port 63791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript warning: https://c.ststat.net/content/seetickets/mainwebapp/scripts/vendor/v3/shared_core/bundle/shared_core.js, line 1: Script terminated by timeout at:
+Deferred/then/h/</e<@https://c.ststat.net/content/seetickets/mainwebapp/scripts/vendor/v3/shared_core/bundle/shared_core.js:1:30359
+
+1698788991531	Marionette	INFO	Stopped listening on port 65080
+1698788992572	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)

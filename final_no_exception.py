@@ -20,7 +20,6 @@ while is_queue_page == True:
     time.sleep(1)
     # can change the wait time if this is too long
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
-    # see if it waits too long with the exception 
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if it doesn't stop then maybe postcode issue
     if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
