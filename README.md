@@ -22,13 +22,13 @@ git clone https://github.com/klovell96/own_bot.git
 ```bash
 cd own_bot
 ```
-5. Within the own_bot folder, run the following commands 
-On Mac:
+5. Within the own_bot folder, run the following commands: 
+* On Mac:
 ```bash
 source env/bin/activate
 pip install -r requirements.txt
 ```
-On Windows:
+* On Windows:
 ```bash
 .\Activate
 pip install -r requirements.txt
