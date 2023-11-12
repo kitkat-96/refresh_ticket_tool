@@ -8,7 +8,7 @@ Requirements:
 * Must have either Firefox or Chrome installed. If you are using a Mac, I recommend you install Firefox.
 
 Steps:
-1. Using the terminal, move into the directory that you wish to clone the git repository into using the cd command. 
+1. Using the Terminal (Mac) or Powershell (Windows), move into the directory that you wish to clone the git repository into using the cd command. 
 2. If you would like to check what files are in your folder, or what folder you are in run the following commands:
 ```bash
 ls
@@ -22,9 +22,15 @@ git clone https://github.com/klovell96/own_bot.git
 ```bash
 cd own_bot
 ```
-5. Within the own bot folder, run the following commands 
+5. Within the own_bot folder, run the following commands 
+On Mac:
 ```bash
 source env/bin/activate
+pip install -r requirements.txt
+```
+On Windows:
+```bash
+.\Activate
 pip install -r requirements.txt
 ```
 6. Now we are ready to run the refresh script. Run the correct file for which browser you are using. If you are using a Mac I recommend you run the Firefox version. This is because the Chrome version crashes on Mac.
@@ -65,7 +71,7 @@ git clone https://github.com/klovell96/own_bot.git
 ```bash
 cd own_bot
 ```
-9. Within the own bot folder, run the following commands 
+9. Within the own_bot folder, run the following commands 
 ```bash
 source env/bin/activate
 pip install -r requirements.txt
