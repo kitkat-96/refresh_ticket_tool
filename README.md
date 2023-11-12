@@ -76,6 +76,6 @@ python final_raspsberry_pi.py
 ```
 
 
-Links I used to write the above steps. I recommend looking at Ivan's blog if you are having issues.:
+Links I used to write the above steps. I recommend looking at Ivan's blog if you are having issues:
 * [Medium Blog](https://patrikmojzis.medium.com/how-to-run-selenium-using-python-on-raspberry-pi-d3fe058f011)
 * [Ivan Derevianko Blog](https://ivanderevianko.com/2020/01/selenium-chromedriver-for-raspberrypi)
