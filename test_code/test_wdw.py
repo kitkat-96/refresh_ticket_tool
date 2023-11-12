@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 # url = 'https://glastonbury.seetickets.com/content/extras'
 
 # testing urls
-glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_site.htm'
-queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/glasto_queue.htm'
+glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm'
+queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_queue.htm'
 site_options = [queue_url, glasto_url]
 is_queue_page = True
 
@@ -23,7 +23,7 @@ driver = webdriver.Firefox()
 
 #  throws up test site
 def gen_page ():
-    page_choice = random.choices(site_options, weights=[0.98, 0.02])[0]
+    page_choice = random.choices(site_options, weights=[0.9, 0.1])[0]
     return str(page_choice)
 
 def refresh_page ():
