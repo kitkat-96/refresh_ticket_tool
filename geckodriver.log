@@ -17204,3 +17204,37 @@ JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury
 1699806789848	Marionette	INFO	Stopped listening on port 64677
 console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1699809417088	geckodriver	INFO	Listening on 127.0.0.1:65028
+1699809417603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofilejYuDaA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699809418028	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699809418253	Marionette	INFO	Listening on port 65035
+WebDriver BiDi listening on ws://127.0.0.1:65029
+Read port: 65035
+1699809418422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65029/devtools/browser/cc66e4f0-65f9-4645-95a6-196cba1f29a2
+1699810216286	geckodriver	INFO	Listening on 127.0.0.1:65308
+1699810216796	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofileMtFs2t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699810217198	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1699810217345	Marionette	INFO	Listening on port 65314
+WebDriver BiDi listening on ws://127.0.0.1:65309
+Read port: 65314
+1699810217481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65309/devtools/browser/ec794d55-f621-4d81-8c6e-3bc5e6b0ba85
+JavaScript warning: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit, line 79: Script terminated by timeout at:
+_.Bd@/_/translate_http/_/js/k=translate_http.tr.en_GB.bVrrHzcI_Bc.O/am=CAM/d=1/rs=AN8SPfrCykMZugH78Ds7teVZV3XNq-tFIg/m=el_conf:79:397
+_.Ed@/_/translate_http/_/js/k=translate_http.tr.en_GB.bVrrHzcI_Bc.O/am=CAM/d=1/rs=AN8SPfrCykMZugH78Ds7teVZV3XNq-tFIg/m=el_conf:79:803
+Xd@/_/translate_http/_/js/k=translate_http.tr.en_GB.bVrrHzcI_Bc.O/am=CAM/d=1/rs=AN8SPfrCykMZugH78Ds7teVZV3XNq-tFIg/m=el_conf:88:38
+b@/_/translate_http/_/js/k=translate_http.tr.en_GB.bVrrHzcI_Bc.O/am=CAM/d=1/rs=AN8SPfrCykMZugH78Ds7teVZV3XNq-tFIg/m=el_conf:85:473
+
+1699810228041	Marionette	INFO	Stopped listening on port 65314
+1699810230363	Marionette	INFO	Stopped listening on port 65035
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

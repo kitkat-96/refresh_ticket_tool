@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # real url - might need replacing
 # url = 'https://glastonbury.seetickets.com/content/extras'
 
-# testing urls
+# testing urls - this path will need to be changed for each computer 
 glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm'
 queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_queue.htm'
 site_options = [queue_url, glasto_url]
