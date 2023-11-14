@@ -43,7 +43,9 @@ python final_firefox.py
 Requirements:
 * Git must already be installed on your local machine. 
 * Python and pip must already be installed on your local machine. 
-* Must have Firefox installed. 
+* Must have Firefox installed.
+
+If you do not have these you can download [Git](https://git-scm.com/download/win) and [Python](https://www.python.org/downloads/) using the links. 
 
 Steps:
 1. Using Powershell (Windows), move into the directory that you wish to clone the git repository into using the cd command. 
