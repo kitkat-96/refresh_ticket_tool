@@ -1,14 +1,20 @@
 # Glastonbury Sale Refresh Tool
 
-## Running on local machine
+## Running on local machine Mac
 
 Requirements:
 * Git must already be installed on your local machine. 
 * Python and pip must already be installed on your local machine. 
-* Must have either Firefox or Chrome installed. If you are using a Mac, I recommend you install Firefox.
+* Must have Firefox installed.
+
+If you do not have these please follow this [link](https://brew.sh/) to see how to set up brew. You can then run these commands to get Python and Git:
+```bash
+brew install python
+brew install git
+```
 
 Steps:
-1. Using the Terminal (Mac) or Powershell (Windows), move into the directory that you wish to clone the git repository into using the cd command. 
+1. Using the Terminal (Mac), move into the directory that you wish to clone the git repository into using the cd command. 
 2. If you would like to check what files are in your folder, or what folder you are in run the following commands:
 ```bash
 ls
@@ -23,19 +29,44 @@ git clone https://github.com/klovell96/own_bot.git
 cd own_bot
 ```
 5. Within the own_bot folder, run the following commands: 
-* On Mac:
 ```bash
 source env/bin/activate
 pip install -r requirements.txt
 ```
+6. Now we are ready to run the refresh script. Run the following command:
+```bash
+python final_firefox.py
+```
+
+## Running on local machine Windows
+
+Requirements:
+* Git must already be installed on your local machine. 
+* Python and pip must already be installed on your local machine. 
+* Must have Firefox installed. 
+
+Steps:
+1. Using Powershell (Windows), move into the directory that you wish to clone the git repository into using the cd command. 
+2. If you would like to check what files are in your folder, or what folder you are in run the following commands:
+```bash
+ls
+pwd
+```
+3. In the directory clone the git repository by running the following command:
+```bash
+git clone https://github.com/klovell96/own_bot.git
+```
+4. Move into the own_bot folder by using the following command:
+```bash
+cd own_bot
+```
+5. Within the own_bot folder, run the following commands: 
 * On Windows:
 ```bash
-.\Activate
 pip install -r requirements.txt
 ```
 6. Now we are ready to run the refresh script. Run the correct file for which browser you are using. If you are using a Mac I recommend you run the Firefox version. This is because the Chrome version crashes on Mac.
 ```bash
-python final_chrome.py
 python final_firefox.py
 ```
 
