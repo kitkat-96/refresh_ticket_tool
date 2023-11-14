@@ -14,7 +14,7 @@ brew install git
 ```
 
 Steps:
-1. Using the Terminal (Mac), move into the directory that you wish to clone the git repository into using the cd command. 
+1. Using the Terminal, move into the directory that you wish to clone the git repository into using the cd command. 
 2. If you would like to check what files are in your folder, or what folder you are in run the following commands:
 ```bash
 ls
@@ -48,7 +48,7 @@ Requirements:
 If you do not have these you can download [Git](https://git-scm.com/download/win) and [Python](https://www.python.org/downloads/) using the links. 
 
 Steps:
-1. Using Powershell (Windows), move into the directory that you wish to clone the git repository into using the cd command. 
+1. Using Powershell, move into the directory that you wish to clone the git repository into using the cd command. 
 2. If you would like to check what files are in your folder, or what folder you are in run the following commands:
 ```bash
 ls
