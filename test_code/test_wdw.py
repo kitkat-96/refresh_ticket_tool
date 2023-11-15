@@ -2,12 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 import time
 import random
 from bs4 import BeautifulSoup 
 
-# real url - might need replacing
-# url = 'https://glastonbury.seetickets.com/content/extras'
 
 # testing urls - this path will need to be changed for each computer 
 glasto_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm'
@@ -15,11 +14,10 @@ queue_url = 'file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_
 site_options = [queue_url, glasto_url]
 is_queue_page = True
 
+options = Options()
+options.set_preference("general.useragent.override", "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.1; rv:109.0) Gecko/20100101 Firefox/119.0")
 
-# will want to set headers 
-headers = {}
-
-driver = webdriver.Firefox()
+driver = webdriver.Firefox(options=options)
 
 #  throws up test site
 def gen_page ():
@@ -36,5 +34,5 @@ while is_queue_page == True: # this will change to the while false or something
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if postcode appears on queue page this will not work. 
     # If postcode does not appear on main page this will not work
-    if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
+    if "postcode" in page_html.lower():
         is_queue_page = False

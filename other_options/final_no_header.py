@@ -6,15 +6,11 @@ from selenium.common.exceptions import TimeoutException
 import time
 from bs4 import BeautifulSoup 
 
-# THIS LIKELY WILL NOT WORK ON MAC. HAVING ISSUES OF BROWSER QUITTING AFTER PAGE LOADS.
-
 # real url - might need replacing
 glasto_url = 'https://glastonbury.seetickets.com/content/extras'
 is_queue_page = True
-# will want to set headers 
-headers = {}
 
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 driver.get(glasto_url)
 
 while is_queue_page == True:
@@ -27,7 +23,7 @@ while is_queue_page == True:
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
         page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
         # if it doesn't stop then maybe postcode issue
-        if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
+        if "postcode" in page_html.lower():
             is_queue_page = False
 
     # can change exception type?
@@ -38,3 +34,4 @@ while is_queue_page == True:
     except Exception:
         print("Not loaded in time - Refresh")     
      
+
