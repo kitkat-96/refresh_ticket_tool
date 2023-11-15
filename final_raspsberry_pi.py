@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 glasto_url = 'https://glastonbury.seetickets.com/content/extras'
 is_queue_page = True
 
-driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver')
+driver = webdriver.Chrome('/usr/bin/chromedriver')
 driver.get(glasto_url)
 
 while is_queue_page == True:
