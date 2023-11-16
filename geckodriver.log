@@ -20385,3 +20385,41 @@ JavaScript warning: https://www.glastonburyfestivals.co.uk/_Incapsula_Resource?S
 JavaScript warning: https://www.glastonburyfestivals.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1914416690, line 1: unreachable code after return statement
 JavaScript warning: https://www.glastonburyfestivals.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1914416690, line 1: unreachable code after return statement
 JavaScript warning: https://www.glastonburyfestivals.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1914416690 line 1 > eval, line 1: unreachable code after return statement
+1700154359449	geckodriver	INFO	Listening on 127.0.0.1:53998
+1700154359853	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofiletxMhbX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700154360323	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700154360488	Marionette	INFO	Listening on port 54005
+WebDriver BiDi listening on ws://127.0.0.1:53999
+Read port: 54005
+1700154360690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:53999/devtools/browser/3ce156f3-4f5d-4f2e-b9d8-8b9e606cebd4
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm, line 164: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm, line 174: ReferenceError: $ is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm, line 195: ReferenceError: overlayBoxLibrary is not defined
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm, line 197: ReferenceError: $ is not defined
+1700154380231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1700154380234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: file:///Users/katielovell/Documents/CodingProjects/glastonbury/own_bot/test_code/glasto_site.htm, line 94: ReferenceError: registrationValidator is not defined
+1700154616546	geckodriver	INFO	Listening on 127.0.0.1:54071
+1700154617053	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7k/f41dc_3d2c991v683slr9l4h0000gn/T/rust_mozprofile77eMx2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700154617440	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700154617612	Marionette	INFO	Listening on port 54077
+WebDriver BiDi listening on ws://127.0.0.1:54072
+Read port: 54077
+1700154617765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54072/devtools/browser/00aa5ea4-d9c5-4e1b-b23b-d7d068691c0a
+JavaScript error: https://glastonbury.seetickets.com/content/extras, line 324: TypeError: $.cookie(...) is undefined
+JavaScript warning: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit, line 79: Script terminated by timeout at:
+_.Bd@/_/translate_http/_/js/k=translate_http.tr.en_GB.jjnMhKhfh7g.O/am=EAY/d=1/rs=AN8SPfpxlfJIBQ4s8iV9DSVnrr_tn1KPMg/m=el_conf:79:397
+_.Ed@/_/translate_http/_/js/k=translate_http.tr.en_GB.jjnMhKhfh7g.O/am=EAY/d=1/rs=AN8SPfpxlfJIBQ4s8iV9DSVnrr_tn1KPMg/m=el_conf:79:803
+Xd@/_/translate_http/_/js/k=translate_http.tr.en_GB.jjnMhKhfh7g.O/am=EAY/d=1/rs=AN8SPfpxlfJIBQ4s8iV9DSVnrr_tn1KPMg/m=el_conf:88:38
+b@/_/translate_http/_/js/k=translate_http.tr.en_GB.jjnMhKhfh7g.O/am=EAY/d=1/rs=AN8SPfpxlfJIBQ4s8iV9DSVnrr_tn1KPMg/m=el_conf:85:473
+

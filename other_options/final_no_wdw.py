@@ -19,7 +19,7 @@ while is_queue_page == True:
 # did we need a web driver wait
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if it doesn't stop then maybe postcode issue
-    if page_html.__contains__("postcode") or page_html.__contains__("Postcode"):
+    if "deposit" in page_html.lower():
         is_queue_page = False
      
 

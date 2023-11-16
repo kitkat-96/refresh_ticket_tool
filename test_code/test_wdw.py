@@ -34,5 +34,5 @@ while is_queue_page == True: # this will change to the while false or something
     page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
     # if postcode appears on queue page this will not work. 
     # If postcode does not appear on main page this will not work
-    if "postcode" in page_html.lower():
+    if "deposit" in page_html.lower():
         is_queue_page = False
