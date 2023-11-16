@@ -66,7 +66,7 @@ cd own_bot
 ```bash
 pip install -r requirements.txt
 ```
-6. Now we are ready to run the refresh script. Run the correct file for which browser you are using. If you are using a Mac I recommend you run the Firefox version. This is because the Chrome version crashes on Mac.
+6. Now we are ready to run the refresh script. Run the following command:
 ```bash
 python final_firefox.py
 ```
