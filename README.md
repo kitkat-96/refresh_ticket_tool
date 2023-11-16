@@ -63,7 +63,6 @@ git clone https://github.com/klovell96/own_bot.git
 cd own_bot
 ```
 5. Within the own_bot folder, run the following commands: 
-* On Windows:
 ```bash
 pip install -r requirements.txt
 ```
