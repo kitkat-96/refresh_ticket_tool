@@ -22,7 +22,7 @@ pwd
 ```
 3. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/klovell96/own_bot.git
+git clone https://github.com/kitkat-96/own_bot.git
 ```
 4. Move into the own_bot folder by using the following command:
 ```bash
@@ -56,7 +56,7 @@ pwd
 ```
 3. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/klovell96/own_bot.git
+git clone https://github.com/kitkat-96/own_bot.git
 ```
 4. Move into the own_bot folder by using the following command:
 ```bash
@@ -97,7 +97,7 @@ pwd
 ```
 7. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/klovell96/own_bot.git
+git clone https://github.com/kitkat-96/own_bot.git
 ```
 8. Move into the own_bot folder by using the following command:
 ```bash
