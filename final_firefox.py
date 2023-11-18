@@ -8,7 +8,7 @@ import time
 from bs4 import BeautifulSoup 
 
 # real url - might need replacing in ticket sale 
-glasto_url = 'https://glastonbury.seetickets.com/content/extras'
+glasto_url = 'https://glastonbury.seetickets.com/'
 is_queue_page = True
 
 options = Options()
@@ -26,7 +26,7 @@ while is_queue_page == True:
         # can change the wait time if this is too long. 
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, 'body')))
         page_html = str(BeautifulSoup(driver.page_source, 'html.parser'))
-        # if it doesn't stop then maybe postcode is issue
+        # if it doesn't stop then maybe additional is issue
         if "additional" in page_html.lower():
             is_queue_page = False
 
