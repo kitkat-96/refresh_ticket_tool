@@ -8,7 +8,7 @@ import time
 from bs4 import BeautifulSoup 
 
 # real url - might need replacing in ticket sale 
-glasto_url = 'https://glastonbury.seetickets.com/event/glastonbury-2024/worthy-farm/3500000'
+glasto_url = 'https://glastonbury.seetickets.com/event/glastonbury-2024-deposits/worthy-farm/3500000'
 is_queue_page = True
 
 options = Options()
