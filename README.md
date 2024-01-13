@@ -1,4 +1,4 @@
-# Glastonbury Sale Refresh Tool
+# Sale Refresh Tool
 
 ## Running on local machine Mac
 
