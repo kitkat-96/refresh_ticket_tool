@@ -22,13 +22,13 @@ pwd
 ```
 3. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/kitkat-96/own_bot.git
+git clone https://github.com/kitkat-96/refresh_ticket_tool.git
 ```
-4. Move into the own_bot folder by using the following command:
+4. Move into the refresh_ticket_tool folder by using the following command:
 ```bash
-cd own_bot
+cd refresh_ticket_tool
 ```
-5. Within the own_bot folder, run the following commands: 
+5. Within the refresh_ticket_tool folder, run the following commands: 
 ```bash
 source env/bin/activate
 pip install -r requirements.txt
@@ -56,13 +56,13 @@ pwd
 ```
 3. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/kitkat-96/own_bot.git
+git clone https://github.com/kitkat-96/refresh_ticket_tool.git
 ```
-4. Move into the own_bot folder by using the following command:
+4. Move into the refresh_ticket_tool folder by using the following command:
 ```bash
-cd own_bot
+cd refresh_ticket_tool
 ```
-5. Within the own_bot folder, run the following commands: 
+5. Within the refresh_ticket_tool folder, run the following commands: 
 ```bash
 pip install -r requirements.txt
 ```
@@ -97,13 +97,13 @@ pwd
 ```
 7. In the directory clone the git repository by running the following command:
 ```bash
-git clone https://github.com/kitkat-96/own_bot.git
+git clone https://github.com/kitkat-96/refresh_ticket_tool.git
 ```
-8. Move into the own_bot folder by using the following command:
+8. Move into the refresh_ticket_tool folder by using the following command:
 ```bash
-cd own_bot
+cd refresh_ticket_tool
 ```
-9. Within the own_bot folder, run the following commands 
+9. Within the refresh_ticket_tool folder, run the following commands 
 ```bash
 source env/bin/activate
 pip install -r requirements.txt
